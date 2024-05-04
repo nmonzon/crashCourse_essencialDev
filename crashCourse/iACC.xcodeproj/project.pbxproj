@@ -14,7 +14,6 @@
 		039B7E5F2BE5A75A00D96C66 /* FriendsAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039B7E4D2BE5A75A00D96C66 /* FriendsAPI.swift */; };
 		039B7E602BE5A75A00D96C66 /* FriendsCache.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039B7E4E2BE5A75A00D96C66 /* FriendsCache.swift */; };
 		039B7E612BE5A75A00D96C66 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039B7E4F2BE5A75A00D96C66 /* Helpers.swift */; };
-		039B7E622BE5A75A00D96C66 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 039B7E502BE5A75A00D96C66 /* Info.plist */; };
 		039B7E632BE5A75A00D96C66 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 039B7E522BE5A75A00D96C66 /* LaunchScreen.storyboard */; };
 		039B7E642BE5A75A00D96C66 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039B7E532BE5A75A00D96C66 /* ListViewController.swift */; };
 		039B7E652BE5A75A00D96C66 /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 039B7E542BE5A75A00D96C66 /* MainTabBarController.swift */; };
@@ -330,7 +329,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				039B7E622BE5A75A00D96C66 /* Info.plist in Resources */,
 				039B7E5D2BE5A75A00D96C66 /* Assets.xcassets in Resources */,
 				039B7E632BE5A75A00D96C66 /* LaunchScreen.storyboard in Resources */,
 			);
