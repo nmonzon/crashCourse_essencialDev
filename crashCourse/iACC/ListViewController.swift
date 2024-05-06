@@ -16,6 +16,7 @@ class ListViewController: UITableViewController {
 	var fromReceivedTransfersScreen = false
 	var fromSentTransfersScreen = false
 	var fromCardsScreen = false
+    var thisIsATest = false
 	var fromFriendsScreen = false
 	
 	override func viewDidLoad() {
