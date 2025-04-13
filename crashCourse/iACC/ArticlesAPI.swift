@@ -10,6 +10,7 @@ struct Article: Equatable {
 	let author: String
 }
 
+
 class ArticlesAPI {
 	static var shared = ArticlesAPI()
 	
